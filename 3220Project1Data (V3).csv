@@ -1,0 +1,51 @@
+state,mortality_rate,region,pp_diabetes,births_at_home,rate_twins,rate_triplets_higherorder,unmarried_all,low_birthw_all,political_affiliation,health_system_performance
+Alabama,7.56,Southeast,13.3,0.7,35.4,110.1,46.5,10.43,Republican,Bottom 25
+Alaska,7.37,West,13.6,2.5,30.3,83.7,36.5,6.92,Republican,Bottom 25
+Arizona,5.47,Southwest,12.6,1.4,29,72.1,45.4,7.88,Republican,Bottom 25
+Arkansas,8.59,Southeast,10.6,1.2,31.8,64.9,46.3,9.52,Republican,Bottom 25
+California,4.07,West,9,1,29.2,65.2,38.8,7.28,Democratic,Top 25
+Colorado,4.99,West,8.9,1.9,30.4,56.6,22.8,9.48,Democratic,Top 25
+Connecticut,4.65,Northeast,10.6,0.7,25.7,80.3,37.5,8.15,Democratic,Top 25
+Delaware,4.77,Northeast,9.9,1,30.9,82.7,47.1,9.09,Democratic,Bottom 25
+Florida,5.9,Southeast,9.2,1.3,30,72,46.5,9,Republican,Bottom 25
+Georgia,6.25,Southeast,11.3,1,33.4,93.3,46,10.6,Republican,Bottom 25
+Hawaii,4.67,West,7.7,3.3,28.4,45.6,39.2,8.85,Democratic,Top 25
+Idaho,5.13,West,9.6,3.6,30.1,92.4,27.2,6.67,Republican,Top 25
+Illinois,5.62,Midwest,11.1,0.9,33,83.8,39.5,8.5,Democratic,Top 25
+Indiana,6.75,Midwest,12.8,2,32,88.1,43,8.39,Republican,Bottom 25
+Iowa,3.99,Midwest,13.7,1.9,34.2,73.2,35.1,6.84,Republican,Top 25
+Kansas,5.3,Midwest,10.5,1.8,30.4,102.4,35.9,7.4,Split,Bottom 25
+Kentucky,6.15,Southeast,12.2,1.9,31.7,81.6,42.7,9.12,Split,Bottom 25
+Louisiana,7.24,Southeast,11.9,0.3,33,89.8,54.5,11.33,Split,Bottom 25
+Maine,5,Northeast,11,2.6,33.1,39.6,37.2,7.29,Democratic,Top 25
+Maryland,5.99,Northeast,10.5,1.3,31.6,78.3,40.7,8.91,Split,Top 25
+Massachusetts,3.23,Northeast,12.2,0.8,32.7,83.5,32.6,7.52,Split,Top 25
+Michigan,6.22,Midwest,9.9,2.1,35.9,93.1,40.3,9.22,Split,Top 25
+Minnesota,4.83,Midwest,12,1.6,32.4,120.2,31.8,7.25,Split,Top 25
+Mississippi,9.39,Southeast,11.2,0.6,35,84.8,54.8,12.35,Republican,Bottom 25
+Missouri,5.85,Midwest,12.3,2,33.2,79.7,39.9,8.89,Republican,Bottom 25
+Montana,4.9,West,10.2,2.8,28.6,78.5,33,7.6,Republican,Bottom 25
+Nebraska,5.49,Midwest,12.7,0.4,34.1,168.4,34.2,7.64,Democratic,Top 25
+Nevada,5.76,West,11.3,1.9,30.4,67.4,49.3,9.66,Democratic,Bottom 25
+New Hampshire,3.96,Northeast,12,1.9,31.5,71.7,31,6.97,Republican,Top 25
+New Jersey,3.57,Northeast,10.3,0.6,31.2,103.7,33.3,7.73,Democratic,Top 25
+New Mexico,4.77,Southwest,22.3,1.9,25.3,51.3,52.4,9.4,Democratic,Top 25
+New York,4.16,Northeast,10.6,1.4,32.3,83.9,38.1,8.4,Democratic,Top 25
+North Carolina,6.72,Southeast,12.1,0.8,32.1,76.4,40.9,9.44,Split,Bottom 25
+North Dakota,2.77,Midwest,12.8,1.4,30.6,127.3,31.4,6.65,Republican,Bottom 25
+Ohio,7.06,Midwest,13.2,1.6,32.5,101.7,42.6,8.71,Republican,Bottom 25
+Oklahoma,7.13,Midwest,11.5,1.3,31.2,75.1,44.3,8.8,Republican,Bottom 25
+Oregon,3.97,West,10.7,2.6,32.6,77.5,36.5,6.91,Democratic,Top 25
+Pennsylvania,5.37,Northeast,10.3,2.5,31.7,79.7,39.7,8.31,Split,Top 25
+Rhode Island,4.3,Northeast,11.2,0.8,29.5,68.3,43.8,7.92,Democratic,Top 25
+South Carolina,7.26,Southeast,12.9,1.3,33.2,86.5,45.2,10.01,Republican,Bottom 25
+South Dakota,6.07,Midwest,9.2,1.3,34.6,65.1,35.9,7.13,Republican,Bottom 25
+Tennessee,6.18,Southeast,15.2,1.6,31.5,93,42.8,9.3,Republican,Bottom 25
+Texas,5.29,Southwest,9.4,1,29.6,81.7,41.3,8.65,Republican,Bottom 25
+Utah,4.58,West,8,3,32.6,135.7,19.5,7.42,Republican,Top 25
+Virginia,5.96,Southeast,9.7,1.3,32.7,72.6,34.8,8.33,Split,Top 25
+Washington,4.36,West,10.4,2.5,28.6,66.7,31.6,6.96,Democratic,Top 25
+Washington D.C.,6.81,Southeast,12.6,1,29.5,124,43.6,9.58,Democratic,Top 25
+West Virginia,6.8,Southeast,14,1.2,32.3,74.1,45.7,9.76,Republican,Bottom 25
+Wisconsin,5.36,Midwest,12.3,3.1,32.3,91.6,36.8,7.7,Split,Top 25
+Wyoming,5.45,West,6.3,2.3,31.7,110.9,32.9,9.4,Republican,Bottom 25
